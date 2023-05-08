@@ -1,0 +1,23 @@
+h1
+    {
+        color:darkblue;
+        font-size: 16pt;
+        font-family: Arial;
+    }
+
+a   
+    {
+        font-size: 18pt;
+        padding-right: 30px;
+        font-family: arial;
+        text-decoration: none;
+        color:maroon;
+    }
+
+a:hover
+    {
+        font-size: 22pt;
+        font-family: Impact;
+        color: gold;
+        background-color: black;
+    }
